@@ -1,5 +1,5 @@
 {
-  "name": "grommet-css",
+  "name": "kandula-grommet-css",
   "version": "1.6.0",
   "description": "Standalone css for grommet ui library.",
   "main": "build/index.min.css",
